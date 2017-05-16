@@ -1,0 +1,7 @@
+package junitexamples;
+
+public class Primus_Login extends JunitMaster
+{
+	
+
+}
